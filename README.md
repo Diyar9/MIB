@@ -1,4 +1,4 @@
-To start MIB:
+To start MIB -
 ./MIB-master > MIB-master > dist > MIB
 
 Admin -
